@@ -1,2 +1,2 @@
 
-web:waitress-serve --port=$PORT newforum.wsgi:application
+web: waitress-serve --port=$PORT newforum.wsgi:application
