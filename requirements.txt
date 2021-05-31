@@ -2,3 +2,4 @@ django
 waitress
 django-cors-headers
 PyJWT
+requests
