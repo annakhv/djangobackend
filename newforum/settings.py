@@ -26,7 +26,7 @@ SECRET_KEY = 'ito$tza*gf23!c^3m8y^ab#0o9k(x%9tl9uzf^g@wj+qzea+ad'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['arcane-sierra-99219.herokuapp.com']
 
 
 
